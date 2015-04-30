@@ -1,0 +1,10 @@
+C:\Users\yousef\Google Drive\mywork\deakin\3st\SIT323 - Practical Software Development\assignment2\Assi2\Assignment2\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\yousef\Google Drive\mywork\deakin\3st\SIT323 - Practical Software Development\assignment2\Assi2\Assignment2\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\yousef\Google Drive\mywork\deakin\3st\SIT323 - Practical Software Development\assignment2\Assi2\Assignment2\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\yousef\Google Drive\mywork\deakin\3st\SIT323 - Practical Software Development\assignment2\Assi2\Assignment2\Assignment1\obj\Debug\Assignment1.Main.resources
+C:\Users\yousef\Google Drive\mywork\deakin\3st\SIT323 - Practical Software Development\assignment2\Assi2\Assignment2\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\yousef\Google Drive\mywork\deakin\3st\SIT323 - Practical Software Development\assignment2\Assi2\Assignment2\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.Cache
+C:\Users\yousef\Google Drive\mywork\deakin\3st\SIT323 - Practical Software Development\assignment2\Assi2\Assignment2\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\yousef\Google Drive\mywork\deakin\3st\SIT323 - Practical Software Development\assignment2\Assi2\Assignment2\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\yousef\Google Drive\mywork\deakin\3st\SIT323 - Practical Software Development\assignment2\Assi2\sit323-assi2-YousefALharbi\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\yousef\Google Drive\mywork\deakin\3st\SIT323 - Practical Software Development\assignment2\Assi2\sit323-assi2-YousefALharbi\Assignment1\obj\Debug\Assignment1.pdb
